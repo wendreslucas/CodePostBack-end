@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": " json-server --watch db.json --port 5000 ",
+    "start": "node src/server.js",
     "dev": "nodemon --watch src src/server.js"
   },
   "dependencies": {

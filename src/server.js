@@ -13,7 +13,7 @@ app.use(express.json({ extended: false }))
 app.use('/api/product', product)
 app.use(routes)
 
-const port = process.env.port || 8080
+const port = process.env.port || 3333
 app.listen(port, () => {
   console.log(`Backend started at http://localhost:${port}`)
 })
