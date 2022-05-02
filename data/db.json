@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "title": "Wendres Title",
+      "content": "Content Lucas",
+      "userName": "wendreslucas",
+      "created_datetime": "2022-04-24T01:36:31.219Z",
+      "id": 1
+    }
+  ]
+}
