@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "node src/server.js",
-    "dev": "nodemon --watch src src/server.js"
+    "start": "node index.js",
+    "dev": "nodemon --watch index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
