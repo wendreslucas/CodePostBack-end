@@ -1,4 +1,6 @@
 {
+  "description": "Deploy Node.js application",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon --watch index.js"
