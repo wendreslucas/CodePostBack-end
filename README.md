@@ -5,10 +5,10 @@ Hope you enjoy it!
 
 ## Used technologies
 
-NodeJs
-MongoDb
-Express
-Mongoose
+- NodeJs
+- MongoDb
+- Express
+- Mongoose
 
 ## Start
 
